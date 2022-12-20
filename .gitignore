@@ -2,6 +2,12 @@
 __pycache__
 venv
 
+# My excludes
+*.log
+notes.txt
+*.png
+*.zip
+
 # OS generated files #
 ######################
 .DS_Store
@@ -11,5 +17,3 @@ venv
 .Trashes
 ehthumbs.db
 Thumbs.db
-env/
-frontend/node_modules/
